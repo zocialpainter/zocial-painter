@@ -1,0 +1,21 @@
+/* Tailwind Directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global Styles */
+body {
+  @apply bg-white text-black font-sans;
+}
+
+/* Optional: Prevent text selection flicker and smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Optional: Set root layout if needed */
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
