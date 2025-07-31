@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/zocial-painter/static/css/main.1be62026.css",
-    "main.js": "/zocial-painter/static/js/main.ca08de40.js",
+    "main.css": "/zocial-painter/static/css/main.9bdb3db0.css",
+    "main.js": "/zocial-painter/static/js/main.7b9eba97.js",
     "static/media/logo.png": "/zocial-painter/static/media/logo.9f544800ea25d847b5ee.png",
     "service-worker.js": "/zocial-painter/service-worker.js",
     "index.html": "/zocial-painter/index.html",
-    "main.1be62026.css.map": "/zocial-painter/static/css/main.1be62026.css.map",
-    "main.ca08de40.js.map": "/zocial-painter/static/js/main.ca08de40.js.map"
+    "main.9bdb3db0.css.map": "/zocial-painter/static/css/main.9bdb3db0.css.map",
+    "main.7b9eba97.js.map": "/zocial-painter/static/js/main.7b9eba97.js.map"
   },
   "entrypoints": [
-    "static/css/main.1be62026.css",
-    "static/js/main.ca08de40.js"
+    "static/css/main.9bdb3db0.css",
+    "static/js/main.7b9eba97.js"
   ]
 }
